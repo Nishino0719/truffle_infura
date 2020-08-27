@@ -1,0 +1,24 @@
+{
+  "name": "truffle_infura",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {},
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Nishino",
+  "license": "ISC"
+}
